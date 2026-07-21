@@ -27,12 +27,6 @@ Heavy industries often have sensors and safety systems, but the data is not alwa
 - Red, Yellow, Green LEDs
 - Resistors
 
-## Wokwi Simulation
-Add your Wokwi project link here.
-
-## GitHub Repository
-Add your GitHub repository link here.
-
 ## Pin Connections
 - Gas Sensor AOUT -> GPIO14
 - DHT22 DATA -> GPIO12
